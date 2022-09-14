@@ -1,0 +1,77 @@
+body {
+	background: black	;
+	margin-top: 200px;
+	font-family: sans-serif;
+}
+
+img {
+	width: 400px;
+	height: 400px;
+	object-fit: cover;
+}
+
+.Box{
+	width: 400px;
+	height: auto;
+	margin: auto;
+	background: white;
+	margin-bottom: 100px;
+}
+
+.header{
+	height: 60px;
+	padding: 5px;
+	display: flex;
+	margin-left: 3px;
+	margin-top: 12px	;
+}
+
+header p {
+	margin-left: 45px;
+	margin-top: 13	px;
+}
+
+#user {
+	margin-top: 12px;
+	margin-left: 3px;
+	position: absolute;
+}
+
+#dots {
+	margin-left: 370px;
+	margin-top: 12px;
+	position: absolute;
+}
+
+.icon_container {
+	display: flex;
+}
+
+.foot_icons{
+	padding: 10px;
+}
+
+.foot_icons i {
+	margin-right: 2px;
+}
+
+
+#bookmark {
+	margin-left: 235px;	
+	position: absolute;
+
+}
+
+.Box footer {
+	height: 120px;
+}
+
+.info {
+	padding-left: 10px;
+
+}
+
+footer {
+	padding-left: 10px;
+}
+
